@@ -1,0 +1,1 @@
+A simple app that greets a user based on Lecture 3 from CS50w.
